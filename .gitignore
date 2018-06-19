@@ -105,3 +105,8 @@ venv.bak/
 
 # txt
 *.txt
+
+.idea/*
+bin/
+include/
+share/
